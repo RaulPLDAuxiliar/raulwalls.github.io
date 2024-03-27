@@ -1,5 +1,15 @@
 /*<uniquifier>: Use a unique and descriptive class name*/
 /* <weight>: Use a value from 200 to 900*/
+/*GLOBALS*/
+h1{
+    color: salmon;
+}
+h2{
+    color: black;
+}
+p{
+    color: steelblue;
+}
 
 .inconsolata-body {
   font-family: "Inconsolata", monospace;
