@@ -1,22 +1,29 @@
 /*----- GLOBALS -----*/
+:root{
+    --main-bg-color: rgb(250, 128, 114);
+    --sec-bg-color: rgb(70, 130, 180);
+    --main-nav-color: rgb(0, 128, 128);
+    --sec-nav-color: rgb(165, 42, 42);
+    --main-foo-color: rgb(190, 218, 255);
+}
 html, *{
     margin: 0;
     /* background-image: url("/img/"); */
 }
 h1{
     font-size: 3rem;
-    color: salmon;
+    color: var(--main-bg-color);
 }
 h2{
-    font-size: 1.5rem;
-    color: black;
+    font-size: 2rem;
+    color: #000000;
 }
 p{
-    color: steelblue;
-    padding-top: 1rem;
+    color: var(--sec-bg-color);
+    padding-top: 0.5rem;
 }
 a{
-    color: teal;
+    color: var(--main-nav-color);
     font-weight: 700;
     text-decoration: none;
 }
@@ -40,22 +47,35 @@ a{
     flex-direction: column;
     /* align-items: flex-start; */
     position: relative;
+    width: 50%;
+
+    
 }
 .nav--bar{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-top: 1rem;
+    background-color: aqua;
     
 }
 .nav--bar a{
+    padding-top: 1rem;
     padding-right: 1rem;
 }
 .nav--bar a:hover{
-    color: brown;
+    color: var(--sec-nav-color);
 }
 .nav--bar a:focus{
-    color: black;
+    color: #000000;
+}
+.nav--bg{
+    width: 100%;
+    min-height: 10rem;
+    background-image: url(../img/bg1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .principal--header{
@@ -79,9 +99,18 @@ a{
 /*----- FOOTER -----*/
 .container--footer{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     max-width: 100%;
-    height: 3rem;
-    background-color: rgb(190, 218, 255);
+    min-height: 5rem;
+    background-color: var(--main-foo-color);
 
+}
+
+.container--footer-contact p{
+    padding-top: 0 !important;
+}
+.container--footer-contact{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
 }
