@@ -1,0 +1,37 @@
+body {
+            background: #f8f9fa;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .error404 {
+            background: #fff;
+            padding: 40px 60px;
+            border-radius: 16px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+            text-align: center;
+        }
+        .error404 h1 {
+            color: #c62828;
+            font-size: 3rem;
+            margin-bottom: 16px;
+        }
+        .error404 p {
+            color: #555;
+            font-size: 1.2rem;
+        }
+        .icono {
+            font-size: 4rem;
+            color: #c62828;
+            margin-bottom: 12px;
+        }
+        a {
+            color: #1976d2;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }

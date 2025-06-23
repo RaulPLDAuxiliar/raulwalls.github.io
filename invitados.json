@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "familia" : "Oliver Paredes",
+        "telefono" : "123456789",
+        "personas" : 3,
+        "status" : 1,
+        "tipo" : 0
+    },
+    {
+        "id": 2,
+        "familia" : "Muñoz Quiterio",
+        "telefono" : "122222222",
+        "personas" : 4,
+       "status" : 2,
+        "tipo" : 0
+    },
+    {
+        "id": 3,
+        "familia" : "Gómez Quintos",
+        "telefono" : "2215997237",
+        "personas" : 3,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 4,
+        "familia" : "Paredes Saldivar",
+        "telefono" : "",
+        "personas" : 5,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 5,
+        "familia" : "Paredes Vazquez",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 6,
+        "familia" : "Cuautle Martínez",
+        "telefono" : "123456789",
+        "personas" : 4,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 7,
+        "familia" : "Salas Velez",
+        "telefono" : "987654321",
+        "personas" : 4,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 8,
+        "familia" : "Saúl Cholula Villegas",
+        "telefono" : "",
+        "personas" : 2,
+       "status" : 0,
+        "tipo" : 1
+    },
+    {
+        "id": 9,
+        "familia" : "González Alejandro",
+        "telefono" : "",
+        "personas" : 2,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 10,
+        "familia" : "Lopez Morales",
+        "telefono" : "5555555555",
+        "personas" : 6,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 11,
+        "familia" : "Daniel Carmona",
+        "telefono" : "",
+        "personas" : 2,
+       "status" : 0,
+        "tipo" : 1
+    },
+    {
+        "id": 12,
+        "familia" : "Tío Chucho",
+        "telefono" : "",
+        "personas" : 5,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 13,
+        "familia" : "Tía Pollita",
+        "telefono" : "",
+        "personas" : 8,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 14,
+        "familia" : "Oliver Escobar",
+        "telefono" : "",
+        "personas" : 2,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 15,
+        "familia" : "Tito",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 1
+    },
+    {
+        "id": 16,
+        "familia" : "Tía Yin",
+        "telefono" : "",
+        "personas" : 4,
+       "status" : 0,
+        "tipo" : 0
+    },
+    {
+        "id": 17,
+        "familia" : "Verly",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 2
+    },
+    {
+        "id": 18,
+        "familia" : "Raúl",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 2
+    },
+    {
+        "id": 19,
+        "familia" : "Rodo",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 2
+    },
+    {
+        "id": 20,
+        "familia" : "Diana",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 1
+    },
+    {
+        "id": 21,
+        "familia" : "Nicol",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 1
+    },
+    {
+        "id": 22,
+        "familia" : "Fer",
+        "telefono" : "",
+        "personas" : 1,
+       "status" : 0,
+        "tipo" : 1
+    }
+]
